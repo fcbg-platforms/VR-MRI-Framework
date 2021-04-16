@@ -1,0 +1,51 @@
+2020-09-09 08:53:39.725 - [comment] - Start of the experiment
+
+2020-09-09 08:53:40.986 - [load_scene_additive] - CB_MRI
+
+2020-09-09 08:53:41.664 - [get_mri_references] - 0
+
+2020-09-09 08:53:41.726 - [init] - Male - #959595 - 1 - 1
+
+2020-09-09 08:53:45.916 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-09 08:53:46.405 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-09 08:53:46.743 - [set_MRI_length_rb] - 1.234
+
+2020-09-09 08:53:46.788 - [pause]
+
+2020-09-09 08:53:47.163 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-09 08:53:47.184 - [move_inside]0.004 0.0045
+
+2020-09-09 08:53:54.207 - [pause]
+
+2020-09-09 08:53:54.486 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-09 08:53:54.541 - [fade_camera_to_black_screen] - 1000
+
+2020-09-09 08:53:55.583 - [pause_wait_for_MRI_pulse]
+
+2020-09-09 08:53:59.239 - [MRI Pulse Received]
+
+2020-09-09 08:53:59.269 - [fade_black_screen_to_camera] - 1000
+
+2020-09-09 08:53:59.277 - [MRI Pulse Received]
+
+2020-09-09 08:53:59.300 - [MRI Pulse Received]
+
+2020-09-09 08:53:59.320 - [MRI Pulse Received]
+
+2020-09-09 08:54:00.297 - [continuousscale] [0] - Other - How was the example? - white
+2020-09-09 08:54:01.017 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-09 08:54:01.522 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 4
+
+2020-09-09 08:54:01.533 - [text_body_part] [1] - input : 4
+
+2020-09-09 08:54:01.569 - [continuousscale] [1] - value : -1
+
+2020-09-09 08:54:01.595 [NPC_OBT] [0] - Male - #FFCEB4 - 1 - 1 - 180 - right_hand - #FF0000 - 1
+2020-09-09 08:54:06.606 - [NPC_OBT] [1] - input : -1
+
+2020-09-09 08:54:06.640 [NPC_OBT] [0] - Male - #FFCEB4 - 1 - 1 - 180 - right_hand - #FF0000 - 1

@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/_scenes/__generator/_generator.unity
+  isLoaded: 1
+  isActive: 1

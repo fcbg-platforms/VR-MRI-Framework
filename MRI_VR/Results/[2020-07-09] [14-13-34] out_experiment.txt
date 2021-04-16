@@ -1,0 +1,12 @@
+2020-09-07 12:13:34.402 - [comment] - Start of the experiment
+
+2020-09-07 12:13:35.742 - [load_scene_additive] - CB_MRI
+
+2020-09-07 12:13:36.271 - [get_mri_references] - 0
+
+2020-09-07 12:13:36.322 - [init] - Male - #959595 - 1 - 1
+
+2020-09-07 12:13:41.340 - [set_MRI_length_rb] - 1.234
+
+2020-09-07 12:13:41.376 - [pause]
+

@@ -1,0 +1,134 @@
+2020-09-04 08:44:30.596 - [comment] - Start of the experiment
+
+2020-09-04 08:44:31.270 - [init] - Male - #959595 - 1 - 1
+
+2020-09-04 08:44:35.270 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-04 08:44:36.219 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-04 08:44:36.286 - [set_MRI_length_rb] - 1.234
+
+2020-09-04 08:44:36.320 - [pause]
+
+2020-09-04 08:44:36.700 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-04 08:44:36.717 - [move_inside]0.004 0.0045
+
+2020-09-04 08:44:43.743 - [pause]
+
+2020-09-04 08:44:48.452 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-04 08:44:48.485 - [fade_camera_to_black_screen] - 1000
+
+2020-09-04 08:44:49.517 - [pause]
+
+2020-09-04 08:44:54.289 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-04 08:44:54.323 - [fade_camera_to_black_screen] - 1000
+
+2020-09-04 08:44:55.346 - [pause]
+
+2020-09-04 08:44:58.124 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-04 08:44:58.142 - [pause_wait_for_MRI_pulse]
+
+2020-09-04 08:45:02.530 - [MRI Pulse Received]
+
+2020-09-04 08:45:02.548 - [MRI Pulse Received]
+
+2020-09-04 08:45:02.564 - [pause]
+
+2020-09-04 08:45:02.565 - [MRI Pulse Received]
+
+2020-09-04 08:45:02.580 - [MRI Pulse Received]
+
+2020-09-04 08:45:02.595 - [MRI Pulse Received]
+
+2020-09-04 08:45:02.612 - [MRI Pulse Received]
+
+2020-09-04 08:45:02.630 - [MRI Pulse Received]
+
+2020-09-04 08:45:02.646 - [MRI Pulse Received]
+
+2020-09-04 08:45:02.663 - [MRI Pulse Received]
+
+2020-09-04 08:45:02.679 - [MRI Pulse Received]
+
+2020-09-04 08:45:02.696 - [MRI Pulse Received]
+
+2020-09-04 08:45:02.712 - [MRI Pulse Received]
+
+2020-09-04 08:45:03.751 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-04 08:45:03.769 - [pause_wait_for_MRI_pulse]
+
+2020-09-04 08:45:06.269 - [MRI Pulse Received]
+
+2020-09-04 08:45:06.302 - [MRI Pulse Received]
+
+2020-09-04 08:45:06.319 - [MRI Pulse Received]
+
+2020-09-04 08:45:06.335 - [MRI Pulse Received]
+
+2020-09-04 08:45:06.352 - [MRI Pulse Received]
+
+2020-09-04 08:45:06.369 - [MRI Pulse Received]
+
+2020-09-04 08:45:06.385 - [MRI Pulse Received]
+
+2020-09-04 08:45:06.402 - [MRI Pulse Received]
+
+2020-09-04 08:45:06.419 - [MRI Pulse Received]
+
+2020-09-04 08:45:06.435 - [MRI Pulse Received]
+
+2020-09-04 08:45:06.451 - [MRI Pulse Received]
+
+2020-09-04 08:45:06.467 - [MRI Pulse Received]
+
+2020-09-04 08:45:06.484 - [MRI Pulse Received]
+
+2020-09-04 08:45:06.501 - [MRI Pulse Received]
+
+2020-09-04 08:45:06.517 - [MRI Pulse Received]
+
+2020-09-04 08:45:06.534 - [MRI Pulse Received]
+
+2020-09-04 08:45:06.550 - [MRI Pulse Received]
+
+2020-09-04 08:45:06.567 - [MRI Pulse Received]
+
+2020-09-04 08:45:06.584 - [MRI Pulse Received]
+
+2020-09-04 08:45:06.601 - [MRI Pulse Received]
+
+2020-09-04 08:45:06.617 - [MRI Pulse Received]
+
+2020-09-04 08:45:06.634 - [MRI Pulse Received]
+
+2020-09-04 08:45:06.650 - [MRI Pulse Received]
+
+2020-09-04 08:45:06.667 - [MRI Pulse Received]
+
+2020-09-04 08:45:06.684 - [MRI Pulse Received]
+
+2020-09-04 08:45:06.700 - [MRI Pulse Received]
+
+2020-09-04 08:45:06.717 - [MRI Pulse Received]
+
+2020-09-04 08:45:06.732 - [MRI Pulse Received]
+
+2020-09-04 08:45:06.749 - [MRI Pulse Received]
+
+2020-09-04 08:45:06.766 - [MRI Pulse Received]
+
+2020-09-04 08:45:06.782 - [MRI Pulse Received]
+
+2020-09-04 08:45:06.799 - [MRI Pulse Received]
+
+2020-09-04 08:45:06.816 - [MRI Pulse Received]
+
+2020-09-04 08:45:06.832 - [MRI Pulse Received]
+
+2020-09-04 08:45:06.849 - [MRI Pulse Received]
+

@@ -1,0 +1,55 @@
+2020-09-04 10:13:45.289 - [comment] - Start of the experiment
+
+2020-09-04 10:13:45.811 - [init] - Male - #959595 - 1 - 1
+
+2020-09-04 10:13:48.673 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-04 10:13:49.202 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-04 10:13:49.554 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-04 10:13:49.982 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-04 10:13:50.319 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-04 10:13:50.666 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-04 10:13:50.822 - [set_MRI_length_rb] - 1.234
+
+2020-09-04 10:13:50.856 - [pause]
+
+2020-09-04 10:13:51.026 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-04 10:13:51.042 - [move_inside]0.004 0.0045
+
+2020-09-04 10:13:58.070 - [pause]
+
+2020-09-04 10:13:58.091 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-04 10:13:58.126 - [fade_camera_to_black_screen] - 1000
+
+2020-09-04 10:13:59.151 - [pause_wait_for_MRI_pulse]
+
+2020-09-04 10:14:02.471 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-04 10:14:04.618 - [MRI Pulse Received]
+
+2020-09-04 10:14:04.644 - [MRI Pulse Received]
+
+2020-09-04 10:14:04.663 - [pause]
+
+2020-09-04 10:14:04.663 - [MRI Pulse Received]
+
+2020-09-04 10:14:04.679 - [MRI Pulse Received]
+
+2020-09-04 10:14:04.697 - [MRI Pulse Received]
+
+2020-09-04 10:14:05.076 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-04 10:14:05.093 - [fade_black_screen_to_camera] - 1000
+
+2020-09-04 10:14:06.134 [question] [0] - This is the question - Low - High - 0 - -1
+2020-09-04 10:14:07.311 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-04 10:14:07.602 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+

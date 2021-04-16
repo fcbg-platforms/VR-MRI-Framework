@@ -1,0 +1,150 @@
+2020-09-03 15:11:02.586 - [comment] - Start of the experiment
+
+2020-09-03 15:11:03.209 - [init] - Male - #959595 - 1 - 1
+
+2020-09-03 15:11:07.866 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-03 15:11:08.230 - [set_MRI_length_rb] - 1.234
+
+2020-09-03 15:11:08.270 - [pause]
+
+2020-09-03 15:11:08.303 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-03 15:11:08.319 - [move_inside]0.004 0.0045
+
+2020-09-03 15:11:08.544 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-03 15:11:15.358 - [pause]
+
+2020-09-03 15:11:17.468 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-03 15:11:17.501 - [fade_camera_to_black_screen] - 1000
+
+2020-09-03 15:11:18.527 - [pause]
+
+2020-09-03 15:11:21.025 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-03 15:11:21.041 - [unload_scene] - 1
+
+2020-09-03 15:11:21.076 - [load_scene] - 0
+
+2020-09-03 15:11:21.136 - [anchor_AvatarsConfig_to_Scene_1_anchor] - 0
+
+2020-09-03 15:11:21.178 - [set_AvatarsConfig_position_and_rotation] - (0,0,0) (0,0,0)
+
+2020-09-03 15:11:21.216 - [show_character] - false
+
+2020-09-03 15:11:21.257 - [set_camera_position_and_rotation] - (0,1,-4.5) (10,0,0)
+
+2020-09-03 15:11:21.300 - [fade_black_screen_to_camera] - 1000
+
+2020-09-03 15:11:22.322 - [rotate_AvatarsConfig_from_A_to_B] - 90 0.1
+
+2020-09-03 15:11:35.721 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-03 15:11:38.040 - [rotate_AvatarsConfig_from_A_to_B] - 90 0.1
+
+2020-09-03 15:11:53.745 - [rotate_AvatarsConfig_from_A_to_B] - 90 0.1
+
+2020-09-03 15:12:09.450 - [rotate_AvatarsConfig_from_A_to_B] - 90 0.1
+
+2020-09-03 15:12:17.726 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-03 15:12:25.170 - [fade_camera_to_black_screen] - 1000
+
+2020-09-03 15:12:26.199 - [pause]
+
+2020-09-03 15:12:34.326 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-03 15:12:34.349 - [pause_wait_for_MRI_pulse]
+
+2020-09-03 15:12:38.497 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-03 15:12:39.163 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-03 15:12:39.326 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-03 15:12:39.479 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-03 15:12:39.639 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-03 15:12:39.805 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-03 15:12:39.947 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-03 15:12:40.101 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-03 15:12:40.274 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-03 15:12:40.422 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-03 15:12:40.590 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-03 15:12:40.740 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-03 15:12:40.904 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-03 15:12:41.030 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-03 15:12:42.565 - [MRI Pulse Received]
+
+2020-09-03 15:12:42.586 - [MRI Pulse Received]
+
+2020-09-03 15:12:42.602 - [pause]
+
+2020-09-03 15:12:42.602 - [MRI Pulse Received]
+
+2020-09-03 15:12:42.620 - [MRI Pulse Received]
+
+2020-09-03 15:12:42.634 - [MRI Pulse Received]
+
+2020-09-03 15:12:42.652 - [MRI Pulse Received]
+
+2020-09-03 15:12:50.433 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 4
+
+2020-09-03 15:12:50.577 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 6
+
+2020-09-03 15:12:50.600 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-03 15:12:50.617 - [pause_wait_for_MRI_pulse]
+
+2020-09-03 15:12:52.504 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 6
+
+2020-09-03 15:12:53.046 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 6
+
+2020-09-03 15:12:53.249 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 5
+
+2020-09-03 15:12:53.387 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 5
+
+2020-09-03 15:12:53.701 - [MRI Pulse Received]
+
+2020-09-03 15:12:53.702 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 4
+
+2020-09-03 15:12:53.717 - [set_AvatarsConfig_position_and_rotation] - (0,0,0) (0,0,0)
+
+2020-09-03 15:12:53.719 - [MRI Pulse Received]
+
+2020-09-03 15:12:53.734 - [MRI Pulse Received]
+
+2020-09-03 15:12:53.750 - [show_character] - false
+
+2020-09-03 15:12:53.751 - [MRI Pulse Received]
+
+2020-09-03 15:12:53.766 - [MRI Pulse Received]
+
+2020-09-03 15:12:53.801 - [unload_scene] - 1
+
+2020-09-03 15:12:53.803 - [MRI Pulse Received]
+
+2020-09-03 15:12:53.820 - [MRI Pulse Received]
+
+2020-09-03 15:12:53.837 - [load_scene] - 0
+
+2020-09-03 15:12:53.838 - [MRI Pulse Received]
+
+2020-09-03 15:12:53.855 - [MRI Pulse Received]
+
+2020-09-03 15:12:53.876 - [anchor_AvatarsConfig_to_Scene_1_anchor] - 0
+
+2020-09-03 15:12:53.879 - [MRI Pulse Received]
+

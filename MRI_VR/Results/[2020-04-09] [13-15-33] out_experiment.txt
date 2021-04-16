@@ -1,0 +1,66 @@
+2020-09-04 11:15:33.650 - [comment] - Start of the experiment
+
+2020-09-04 11:15:34.174 - [init] - Male - #959595 - 1 - 1
+
+2020-09-04 11:15:36.041 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-04 11:15:37.231 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-04 11:15:38.169 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-04 11:15:38.727 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-04 11:15:39.127 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-04 11:15:39.182 - [set_MRI_length_rb] - 1.234
+
+2020-09-04 11:15:39.222 - [pause]
+
+2020-09-04 11:15:39.665 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-04 11:15:39.683 - [move_inside]0.004 0.0045
+
+2020-09-04 11:15:46.707 - [pause]
+
+2020-09-04 11:15:52.032 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-04 11:15:52.064 - [fade_camera_to_black_screen] - 1000
+
+2020-09-04 11:15:53.090 - [pause_wait_for_MRI_pulse]
+
+2020-09-04 11:15:55.209 - [MRI Pulse Received]
+
+2020-09-04 11:15:55.232 - [fade_black_screen_to_camera] - 1000
+
+2020-09-04 11:15:55.233 - [MRI Pulse Received]
+
+2020-09-04 11:15:55.249 - [MRI Pulse Received]
+
+2020-09-04 11:15:55.265 - [MRI Pulse Received]
+
+2020-09-04 11:15:55.281 - [MRI Pulse Received]
+
+2020-09-04 11:15:55.299 - [MRI Pulse Received]
+
+2020-09-04 11:15:55.316 - [MRI Pulse Received]
+
+2020-09-04 11:15:55.333 - [MRI Pulse Received]
+
+2020-09-04 11:15:56.249 - [continuousscale] [0] - Other - How was the example? - white
+2020-09-04 11:15:57.116 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-04 11:15:57.857 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 4
+
+2020-09-04 11:15:57.858 - [continuousscale] [1] - input : 4
+2020-09-04 11:15:57.875 - [continuousscale] [1] - value : 500
+
+2020-09-04 11:15:57.890 - [fade_camera_to_black_screen] - 1000
+
+2020-09-04 11:15:58.922 - [fade_black_screen_to_camera] - 1000
+
+2020-09-04 11:15:59.953 - [load_scene] - Landscape
+
+2020-09-04 11:16:00.211 - [pause]
+
+2020-09-04 11:16:08.598 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+

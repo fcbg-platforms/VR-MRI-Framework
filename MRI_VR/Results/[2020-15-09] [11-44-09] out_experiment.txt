@@ -1,0 +1,36 @@
+2020-09-15 09:44:09.211 - [comment] - Start of the experiment
+
+2020-09-15 09:44:10.604 - [load_scene_additive] - CB_MRI
+
+2020-09-15 09:44:11.249 - [get_mri_references] - 
+
+2020-09-15 09:44:11.285 - [init] - Male - #959595 - 1 - 1
+
+2020-09-15 09:44:16.295 - [set_MRI_length_rb] - 1.234
+
+2020-09-15 09:44:16.339 - [pause]
+
+2020-09-15 09:44:43.205 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-15 09:44:43.236 - [move_inside]0.004 0.0045
+
+2020-09-15 09:44:50.263 - [pause]
+
+2020-09-15 09:44:52.225 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-15 09:44:52.271 - [fade_camera_to_black_screen] - 1000
+
+2020-09-15 09:44:53.309 - [pause_wait_for_MRI_pulse]
+
+2020-09-15 09:44:54.880 - [MRI Pulse Received]
+
+2020-09-15 09:44:54.909 - [fade_black_screen_to_camera] - 1000
+
+2020-09-15 09:44:54.931 - [MRI Pulse Received]
+
+2020-09-15 09:44:55.930 - [pause]
+
+2020-09-15 09:44:58.631 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-15 09:44:58.658 - [enable_mesh_deformation] - true
+

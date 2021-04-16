@@ -1,0 +1,4 @@
+2020-09-09 12:20:08.445 - [comment] - Start of the experiment
+
+2020-09-09 12:20:09.645 - [load_scene_additive] - CB_MRI
+

@@ -1,0 +1,26 @@
+2020-09-03 14:49:48.175 - [comment] - Start of the experiment
+
+2020-09-03 14:49:49.564 - [init] - Male - #959595 - 1 - 1
+
+2020-09-03 14:49:51.165 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-03 14:49:53.164 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-03 14:49:54.580 - [set_MRI_length_rb] - 1.234
+
+2020-09-03 14:49:54.614 - [pause]
+
+2020-09-03 14:49:54.878 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-03 14:49:54.896 - [move_inside]0.004 0.0045
+
+2020-09-03 14:50:01.925 - [pause]
+
+2020-09-03 14:50:02.738 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-03 14:50:02.776 - [fade_camera_to_black_screen] - 1000
+
+2020-09-03 14:50:03.805 - [pause]
+
+2020-09-03 14:50:08.026 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+

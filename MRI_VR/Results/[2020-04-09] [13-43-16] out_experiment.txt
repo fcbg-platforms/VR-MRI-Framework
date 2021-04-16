@@ -1,0 +1,8 @@
+2020-09-04 11:43:16.734 - [comment] - Start of the experiment
+
+2020-09-04 11:43:17.988 - [load_scene_additive] - CB_MRI
+
+2020-09-04 11:43:27.161 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-04 11:43:29.467 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+

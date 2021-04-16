@@ -1,0 +1,64 @@
+2020-09-04 10:17:29.389 - [comment] - Start of the experiment
+
+2020-09-04 10:17:30.561 - [init] - Male - #959595 - 1 - 1
+
+2020-09-04 10:17:32.493 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-04 10:17:33.969 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-04 10:17:34.348 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-04 10:17:34.647 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-04 10:17:34.947 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-04 10:17:35.293 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-04 10:17:35.558 - [set_MRI_length_rb] - 1.234
+
+2020-09-04 10:17:35.606 - [pause]
+
+2020-09-04 10:17:35.649 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-04 10:17:35.668 - [move_inside]0.004 0.0045
+
+2020-09-04 10:17:42.691 - [pause]
+
+2020-09-04 10:17:43.015 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-04 10:17:43.060 - [fade_camera_to_black_screen] - 1000
+
+2020-09-04 10:17:44.090 - [pause_wait_for_MRI_pulse]
+
+2020-09-04 10:17:45.857 - [MRI Pulse Received]
+
+2020-09-04 10:17:45.875 - [fade_black_screen_to_camera] - 1000
+
+2020-09-04 10:17:45.876 - [MRI Pulse Received]
+
+2020-09-04 10:17:45.894 - [MRI Pulse Received]
+
+2020-09-04 10:17:45.911 - [MRI Pulse Received]
+
+2020-09-04 10:17:45.928 - [MRI Pulse Received]
+
+2020-09-04 10:17:45.956 - [MRI Pulse Received]
+
+2020-09-04 10:17:45.985 - [MRI Pulse Received]
+
+2020-09-04 10:17:46.905 - [continuousscale] [0] - Other - How was the example? - white
+2020-09-04 10:17:47.399 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-04 10:17:47.934 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 4
+
+2020-09-04 10:17:47.935 - [continuousscale] [1] - input : 4
+2020-09-04 10:17:47.951 - [continuousscale] [1] - value : 500
+
+2020-09-04 10:17:47.973 - [fade_camera_to_black_screen] - 1000
+
+2020-09-04 10:17:49.010 - [fade_black_screen_to_camera] - 1000
+
+2020-09-04 10:17:50.051 - [load_scene] - Landscape
+
+2020-09-04 10:17:50.092 - [pause]
+

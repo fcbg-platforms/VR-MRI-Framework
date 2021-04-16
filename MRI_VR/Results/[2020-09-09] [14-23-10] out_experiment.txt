@@ -1,0 +1,14 @@
+2020-09-09 12:23:11.047 - [comment] - Start of the experiment
+
+2020-09-09 12:23:12.347 - [load_scene_additive] - CB_MRI
+
+2020-09-09 12:23:13.029 - [init] - Male - #959595 - 1 - 1
+
+2020-09-09 12:23:18.054 - [set_MRI_length_rb] - 1.234
+
+2020-09-09 12:23:18.095 - [pause]
+
+2020-09-09 12:23:18.986 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-09 12:23:19.010 - [move_inside]0.004 0.0045
+

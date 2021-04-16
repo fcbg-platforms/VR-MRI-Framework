@@ -1,0 +1,38 @@
+2020-09-03 15:08:37.553 - [comment] - Start of the experiment
+
+2020-09-03 15:08:38.154 - [init] - Male - #959595 - 1 - 1
+
+2020-09-03 15:08:42.767 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-03 15:08:43.174 - [set_MRI_length_rb] - 1.234
+
+2020-09-03 15:08:43.209 - [pause]
+
+2020-09-03 15:08:43.259 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-03 15:08:43.275 - [move_inside]0.004 0.0045
+
+2020-09-03 15:08:50.307 - [pause]
+
+2020-09-03 15:08:52.899 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-03 15:08:52.935 - [fade_camera_to_black_screen] - 1000
+
+2020-09-03 15:08:53.955 - [pause]
+
+2020-09-03 15:08:55.626 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-03 15:08:55.644 - [unload_scene] - 1
+
+2020-09-03 15:08:55.684 - [load_scene] - 0
+
+2020-09-03 15:08:55.735 - [anchor_AvatarsConfig_to_Scene_1_anchor] - 0
+
+2020-09-03 15:08:55.778 - [set_AvatarsConfig_position_and_rotation] - (0,0,0) (0,0,0)
+
+2020-09-03 15:08:55.813 - [set_camera_position_and_rotation] - (0,1,-4.5) (10,0,0)
+
+2020-09-03 15:08:55.861 - [fade_black_screen_to_camera] - 1000
+
+2020-09-03 15:08:56.897 - [rotate_AvatarsConfig_from_A_to_B] - 90 0.1
+

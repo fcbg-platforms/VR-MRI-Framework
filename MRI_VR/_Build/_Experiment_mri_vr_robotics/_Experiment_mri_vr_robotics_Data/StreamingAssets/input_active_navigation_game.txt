@@ -1,0 +1,1240 @@
+comment
+Start of the experiment
+0
+
+init
+Male #FFCEB4 1 1
+5000
+
+init_stick_touch_position_rotation
+(0,0,0) (0,0,0)
+0
+
+move_inside
+1 1
+1
+
+fade_camera_to_black_screen
+1000
+
+set_AvatarsConfig_position_and_rotation
+(0,0,0) (0,0,0)
+0
+
+show_character
+false
+0
+
+show_table_under_character
+false
+0
+
+change_skin
+none
+0
+
+set_camera_position_and_rotation
+(0,-2000,0) (0,0,0)
+0
+
+change_camera_settings
+Color Everything #000000
+0
+
+fade_black_screen_to_camera
+1
+
+text_body_part
+Other white Please_look_carefully@and_memorize_the_environment@@@@@
+3000
+
+fade_camera_to_black_screen
+1
+
+change_camera_settings
+Skybox Everything #000000
+0
+
+change_skin
+male
+0
+
+show_character
+true
+0
+
+unload_scene
+1
+0
+
+load_scene
+0
+0
+
+anchor_AvatarsConfig_to_June_experiment_anchor
+0
+
+set_AvatarsConfig_position_and_rotation
+(0,0,0) (0,0,0)
+0
+
+show_character
+false
+0
+
+show_table_under_character
+false
+0
+
+set_camera_position_and_rotation
+(0,1,-4.5) (10,0,0)
+0
+
+fade_black_screen_to_camera
+1000
+
+rotate_AvatarsConfig_from_A_to_B
+90 0.1
+
+rotate_AvatarsConfig_from_A_to_B
+90 0.1
+
+rotate_AvatarsConfig_from_A_to_B
+90 0.1
+
+rotate_AvatarsConfig_from_A_to_B
+90 0.1
+
+fade_camera_to_black_screen
+1000
+
+set_AvatarsConfig_position_and_rotation
+(0,0,0) (0,0,0)
+0
+
+show_character
+false
+0
+
+show_table_under_character
+false
+0
+
+change_skin
+none
+0
+
+set_camera_position_and_rotation
+(0,-2000,0) (0,0,0)
+0
+
+change_camera_settings
+Color Everything #000000
+0
+
+fade_black_screen_to_camera
+1
+
+text_body_part
+Other white Please_move_to_the_indicated_location@@@@@
+3000
+
+fade_camera_to_black_screen
+1
+
+change_camera_settings
+Skybox Everything #000000
+0
+
+change_skin
+male
+0
+
+show_character
+true
+0
+
+set_AvatarsConfig_position_and_rotation
+(-0.3776378,0,0.450051) (0,340,0)
+0
+
+set_camera_position_and_rotation
+(0,0,0) (10,0,0)
+0
+
+show_character
+false
+0
+
+show_table_under_character
+false
+0
+
+active_navigation_with_target active_nav_1/18_b1
+1.5 25 (-1.249596,1.483,1.48921)
+
+fade_camera_to_black_screen
+1000
+
+set_AvatarsConfig_position_and_rotation
+(-0.2009368,0,-0.5520694) (0,220,0)
+0
+
+set_camera_position_and_rotation
+(0,0,0) (10,0,0)
+0
+
+show_character
+false
+0
+
+show_table_under_character
+false
+0
+
+active_navigation_with_target active_nav_2/18_b1
+1.5 25 (-1.130376,1.483,-3.105682)
+
+fade_camera_to_black_screen
+1000
+
+set_AvatarsConfig_position_and_rotation
+(0.5087899,0,-0.29375) (0,100,0)
+0
+
+set_camera_position_and_rotation
+(0,0,0) (10,0,0)
+0
+
+show_character
+false
+0
+
+show_table_under_character
+false
+0
+
+active_navigation_with_target active_nav_3/18_b1
+1.5 25 (1.412345,1.483,-0.815418)
+
+fade_camera_to_black_screen
+1000
+
+set_AvatarsConfig_position_and_rotation
+(0,0,0) (0,0,0)
+0
+
+show_character
+false
+0
+
+show_table_under_character
+false
+0
+
+change_skin
+none
+0
+
+set_camera_position_and_rotation
+(0,-2000,0) (0,0,0)
+0
+
+change_camera_settings
+Color Everything #000000
+0
+
+fade_black_screen_to_camera
+1
+
+text_body_part
+Other white Please_go_back_to_the_location@where_you_were@@@@@
+3000
+
+fade_camera_to_black_screen
+1
+
+change_camera_settings
+Skybox Everything #000000
+0
+
+change_skin
+male
+0
+
+show_character
+true
+0
+
+show_character
+false
+0
+
+show_table_under_character
+false
+0
+
+set_AvatarsConfig_position_and_rotation
+(-0.9035553,0,0.521668) (0,120,0)
+0
+
+set_camera_position_and_rotation
+(0,0,0) (10,0,0)
+0
+
+fade_black_screen_to_camera
+1000
+
+active_navigation active_nav_6/18_task_1/3_b1
+1.5 25
+
+fade_camera_to_black_screen
+1000
+
+set_AvatarsConfig_position_and_rotation
+(-0.50879,0,-0.2937499) (0,220,0)
+0
+
+set_camera_position_and_rotation
+(0,0,0) (10,0,0)
+0
+
+show_character
+false
+0
+
+show_table_under_character
+false
+0
+
+active_navigation_with_target active_nav_4/18_b1
+1.5 25 (-2.113192,1.483,-1.220052)
+
+fade_camera_to_black_screen
+1000
+
+set_AvatarsConfig_position_and_rotation
+(0.3776377,0,0.4500511) (0,20,0)
+0
+
+set_camera_position_and_rotation
+(0,0,0) (10,0,0)
+0
+
+show_character
+false
+0
+
+show_table_under_character
+false
+0
+
+active_navigation_with_target active_nav_5/18_b1
+1.5 25 (1.700715,1.483,2.026834)
+
+fade_camera_to_black_screen
+1000
+
+set_AvatarsConfig_position_and_rotation
+(0,0,0) (0,0,0)
+0
+
+show_character
+false
+0
+
+show_table_under_character
+false
+0
+
+change_skin
+none
+0
+
+set_camera_position_and_rotation
+(0,-2000,0) (0,0,0)
+0
+
+change_camera_settings
+Color Everything #000000
+0
+
+fade_black_screen_to_camera
+1
+
+text_body_part
+Other white Please_go_back_to_the_location@where_you_were@@@@@
+3000
+
+fade_camera_to_black_screen
+1
+
+change_camera_settings
+Skybox Everything #000000
+0
+
+change_skin
+male
+0
+
+show_character
+true
+0
+
+show_character
+false
+0
+
+show_table_under_character
+false
+0
+
+set_AvatarsConfig_position_and_rotation
+(-1.323078,0,-1.576783) (0,40,0)
+0
+
+set_camera_position_and_rotation
+(0,0,0) (10,0,0)
+0
+
+fade_black_screen_to_camera
+1000
+
+active_navigation active_nav_6/18_task_1/3_b1
+1.5 25
+
+fade_camera_to_black_screen
+1000
+
+set_AvatarsConfig_position_and_rotation
+(0.3776377,0,-0.4500511) (0,160,0)
+0
+
+set_camera_position_and_rotation
+(0,0,0) (10,0,0)
+0
+
+show_character
+false
+0
+
+show_table_under_character
+false
+0
+
+active_navigation_with_target active_nav_6/18_b1
+1.5 25 (1.551807,1.483,-1.849371)
+
+fade_camera_to_black_screen
+1000
+
+set_AvatarsConfig_position_and_rotation
+(0.5785745,0,-0.1020183) (0,120,0)
+0
+
+set_camera_position_and_rotation
+(0,0,0) (10,0,0)
+0
+
+show_character
+false
+0
+
+show_table_under_character
+false
+0
+
+active_navigation_with_target active_nav_7/18_b1
+1.5 25 (1.560709,1.483,-0.2751951)
+
+fade_camera_to_black_screen
+1000
+
+set_AvatarsConfig_position_and_rotation
+(0,0,0) (0,0,0)
+0
+
+show_character
+false
+0
+
+show_table_under_character
+false
+0
+
+change_skin
+none
+0
+
+set_camera_position_and_rotation
+(0,-2000,0) (0,0,0)
+0
+
+change_camera_settings
+Color Everything #000000
+0
+
+fade_black_screen_to_camera
+1
+
+text_body_part
+Other white Please_go_back_to_the_location@where_you_were@@@@@
+3000
+
+fade_camera_to_black_screen
+1
+
+change_camera_settings
+Skybox Everything #000000
+0
+
+change_skin
+male
+0
+
+show_character
+true
+0
+
+show_character
+false
+0
+
+show_table_under_character
+false
+0
+
+set_AvatarsConfig_position_and_rotation
+(-0.982134,0,0.1731767) (0,100,0)
+0
+
+set_camera_position_and_rotation
+(0,0,0) (10,0,0)
+0
+
+fade_black_screen_to_camera
+1000
+
+active_navigation active_nav_6/18_task_1/3_b1
+1.5 25
+
+fade_camera_to_black_screen
+1000
+
+set_AvatarsConfig_position_and_rotation
+(0.2009368,0,0.5520694) (0,0,0)
+0
+
+set_camera_position_and_rotation
+(0,0,0) (10,0,0)
+0
+
+show_character
+false
+0
+
+show_table_under_character
+false
+0
+
+active_navigation_with_target active_nav_8/18_b1
+1.5 25 (1.171634,1.483,3.219038)
+
+fade_camera_to_black_screen
+1000
+
+set_AvatarsConfig_position_and_rotation
+(0,0,0) (0,0,0)
+0
+
+show_character
+false
+0
+
+show_table_under_character
+false
+0
+
+change_skin
+none
+0
+
+set_camera_position_and_rotation
+(0,-2000,0) (0,0,0)
+0
+
+change_camera_settings
+Color Everything #000000
+0
+
+fade_black_screen_to_camera
+1
+
+text_body_part
+Other white Please_go_back_to_the_location@where_you_were@@@@@
+3000
+
+fade_camera_to_black_screen
+1
+
+change_camera_settings
+Skybox Everything #000000
+0
+
+change_skin
+male
+0
+
+show_character
+true
+0
+
+show_character
+false
+0
+
+show_table_under_character
+false
+0
+
+set_AvatarsConfig_position_and_rotation
+(-0.9706972,0,-2.666969) (0,20,0)
+0
+
+set_camera_position_and_rotation
+(0,0,0) (10,0,0)
+0
+
+fade_black_screen_to_camera
+1000
+
+active_navigation active_nav_6/18_task_1/3_b1
+1.5 25
+
+fade_camera_to_black_screen
+1000
+
+set_AvatarsConfig_position_and_rotation
+(0.50879,0,0.29375) (0,80,0)
+0
+
+set_camera_position_and_rotation
+(0,0,0) (10,0,0)
+0
+
+show_character
+false
+0
+
+show_table_under_character
+false
+0
+
+active_navigation_with_target active_nav_9/18_b1
+1.5 25 (2.073403,1.483,1.19708)
+
+fade_camera_to_black_screen
+1000
+
+set_AvatarsConfig_position_and_rotation
+(-5.136088E-08,0,-0.5875) (0,160,0)
+0
+
+set_camera_position_and_rotation
+(0,0,0) (10,0,0)
+0
+
+show_character
+false
+0
+
+show_table_under_character
+false
+0
+
+active_navigation_with_target active_nav_10/18_b1
+1.5 25 (-1.517759E-07,1.483,-1.736113)
+
+fade_camera_to_black_screen
+1000
+
+set_AvatarsConfig_position_and_rotation
+(-0.50879,0,0.2937499) (0,320,0)
+0
+
+set_camera_position_and_rotation
+(0,0,0) (10,0,0)
+0
+
+show_character
+false
+0
+
+show_table_under_character
+false
+0
+
+active_navigation_with_target active_nav_11/18_b1
+1.5 25 (-2.254208,1.483,1.301467)
+
+fade_camera_to_black_screen
+1000
+
+set_AvatarsConfig_position_and_rotation
+(0,0,0) (0,0,0)
+0
+
+show_character
+false
+0
+
+show_table_under_character
+false
+0
+
+change_skin
+none
+0
+
+set_camera_position_and_rotation
+(0,-2000,0) (0,0,0)
+0
+
+change_camera_settings
+Color Everything #000000
+0
+
+fade_black_screen_to_camera
+1
+
+text_body_part
+Other white Please_go_back_to_the_location@where_you_were@@@@@
+3000
+
+fade_camera_to_black_screen
+1
+
+change_camera_settings
+Skybox Everything #000000
+0
+
+change_skin
+male
+0
+
+show_character
+true
+0
+
+show_character
+false
+0
+
+show_table_under_character
+false
+0
+
+set_AvatarsConfig_position_and_rotation
+(1.745418,0,-1.007717) (0,300,0)
+0
+
+set_camera_position_and_rotation
+(0,0,0) (10,0,0)
+0
+
+fade_black_screen_to_camera
+1000
+
+active_navigation active_nav_6/18_task_1/3_b1
+1.5 25
+
+fade_camera_to_black_screen
+1000
+
+set_AvatarsConfig_position_and_rotation
+(0.5785745,0,0.1020183) (0,60,0)
+0
+
+set_camera_position_and_rotation
+(0,0,0) (10,0,0)
+0
+
+show_character
+false
+0
+
+show_table_under_character
+false
+0
+
+active_navigation_with_target active_nav_12/18_b1
+1.5 25 (2.169039,1.483,0.3824601)
+
+fade_camera_to_black_screen
+1000
+
+set_AvatarsConfig_position_and_rotation
+(0.2009369,0,-0.5520694) (0,140,0)
+0
+
+set_camera_position_and_rotation
+(0,0,0) (10,0,0)
+0
+
+show_character
+false
+0
+
+show_table_under_character
+false
+0
+
+active_navigation_with_target active_nav_13/18_b1
+1.5 25 (0.5470693,1.483,-1.50306)
+
+fade_camera_to_black_screen
+1000
+
+set_AvatarsConfig_position_and_rotation
+(0,0,0) (0,0,0)
+0
+
+show_character
+false
+0
+
+show_table_under_character
+false
+0
+
+change_skin
+none
+0
+
+set_camera_position_and_rotation
+(0,-2000,0) (0,0,0)
+0
+
+change_camera_settings
+Color Everything #000000
+0
+
+fade_black_screen_to_camera
+1
+
+text_body_part
+Other white Please_go_back_to_the_location@where_you_were@@@@@
+3000
+
+fade_camera_to_black_screen
+1
+
+change_camera_settings
+Skybox Everything #000000
+0
+
+change_skin
+male
+0
+
+show_character
+true
+0
+
+show_character
+false
+0
+
+show_table_under_character
+false
+0
+
+set_AvatarsConfig_position_and_rotation
+(-0.3461324,0,0.9509909) (0,160,0)
+0
+
+set_camera_position_and_rotation
+(0,0,0) (10,0,0)
+0
+
+fade_black_screen_to_camera
+1000
+
+active_navigation active_nav_6/18_task_1/3_b1
+1.5 25
+
+fade_camera_to_black_screen
+1000
+
+set_AvatarsConfig_position_and_rotation
+(-0.5785745,0,0.1020183) (0,300,0)
+0
+
+set_camera_position_and_rotation
+(0,0,0) (10,0,0)
+0
+
+show_character
+false
+0
+
+show_table_under_character
+false
+0
+
+active_navigation_with_target active_nav_14/18_b1
+1.5 25 (-2.295687,1.483,0.4047914)
+
+fade_camera_to_black_screen
+1000
+
+set_AvatarsConfig_position_and_rotation
+(-0.5785745,0,-0.1020183) (0,240,0)
+0
+
+set_camera_position_and_rotation
+(0,0,0) (10,0,0)
+0
+
+show_character
+false
+0
+
+show_table_under_character
+false
+0
+
+active_navigation_with_target active_nav_15/18_b1
+1.5 25 (-3.250697,1.483,-0.5731855)
+
+fade_camera_to_black_screen
+1000
+
+set_AvatarsConfig_position_and_rotation
+(0,0,0) (0,0,0)
+0
+
+show_character
+false
+0
+
+show_table_under_character
+false
+0
+
+change_skin
+none
+0
+
+set_camera_position_and_rotation
+(0,-2000,0) (0,0,0)
+0
+
+change_camera_settings
+Color Everything #000000
+0
+
+fade_black_screen_to_camera
+1
+
+text_body_part
+Other white Please_go_back_to_the_location@where_you_were@@@@@
+3000
+
+fade_camera_to_black_screen
+1
+
+change_camera_settings
+Skybox Everything #000000
+0
+
+change_skin
+male
+0
+
+show_character
+true
+0
+
+show_character
+false
+0
+
+show_table_under_character
+false
+0
+
+set_AvatarsConfig_position_and_rotation
+(2.672123,0,0.4711672) (0,260,0)
+0
+
+set_camera_position_and_rotation
+(0,0,0) (10,0,0)
+0
+
+fade_black_screen_to_camera
+1000
+
+active_navigation active_nav_6/18_task_1/3_b1
+1.5 25
+
+fade_camera_to_black_screen
+1000
+
+set_AvatarsConfig_position_and_rotation
+(-0.3776377,0,-0.4500511) (0,200,0)
+0
+
+set_camera_position_and_rotation
+(0,0,0) (10,0,0)
+0
+
+show_character
+false
+0
+
+show_table_under_character
+false
+0
+
+active_navigation_with_target active_nav_16/18_b1
+1.5 25 (-1.374863,1.483,-1.638498)
+
+fade_camera_to_black_screen
+1000
+
+set_AvatarsConfig_position_and_rotation
+(-0.200937,0,0.5520694) (0,360,0)
+0
+
+set_camera_position_and_rotation
+(0,0,0) (10,0,0)
+0
+
+show_character
+false
+0
+
+show_table_under_character
+false
+0
+
+active_navigation_with_target active_nav_17/18_b1
+1.5 25 (-1.074899,1.483,2.953259)
+
+fade_camera_to_black_screen
+1000
+
+set_AvatarsConfig_position_and_rotation
+(0,0,0) (0,0,0)
+0
+
+show_character
+false
+0
+
+show_table_under_character
+false
+0
+
+change_skin
+none
+0
+
+set_camera_position_and_rotation
+(0,-2000,0) (0,0,0)
+0
+
+change_camera_settings
+Color Everything #000000
+0
+
+fade_black_screen_to_camera
+1
+
+text_body_part
+Other white Please_go_back_to_the_location@where_you_were@@@@@
+3000
+
+fade_camera_to_black_screen
+1
+
+change_camera_settings
+Skybox Everything #000000
+0
+
+change_skin
+male
+0
+
+show_character
+true
+0
+
+show_character
+false
+0
+
+show_table_under_character
+false
+0
+
+set_AvatarsConfig_position_and_rotation
+(0.8739624,0,-2.40119) (0,340,0)
+0
+
+set_camera_position_and_rotation
+(0,0,0) (10,0,0)
+0
+
+fade_black_screen_to_camera
+1000
+
+active_navigation active_nav_6/18_task_1/3_b1
+1.5 25
+
+fade_camera_to_black_screen
+1000
+
+set_AvatarsConfig_position_and_rotation
+(0,0,0.5875) (0,20,0)
+0
+
+set_camera_position_and_rotation
+(0,0,0) (10,0,0)
+0
+
+show_character
+false
+0
+
+show_table_under_character
+false
+0
+
+active_navigation_with_target active_nav_18/18_b1
+1.5 25 (0,1.483,1.732085)
+
+fade_camera_to_black_screen
+1000
+
+set_AvatarsConfig_position_and_rotation
+(0,0,0) (0,0,0)
+0
+
+show_character
+false
+0
+
+show_table_under_character
+false
+0
+
+change_skin
+none
+0
+
+set_camera_position_and_rotation
+(0,-2000,0) (0,0,0)
+0
+
+change_camera_settings
+Color Everything #000000
+0
+
+fade_black_screen_to_camera
+1
+
+text_body_part
+Other white Please_go_back_to_the_location@where_you_were@@@@@
+3000
+
+fade_camera_to_black_screen
+1
+
+change_camera_settings
+Skybox Everything #000000
+0
+
+change_skin
+male
+0
+
+show_character
+true
+0
+
+show_character
+false
+0
+
+show_table_under_character
+false
+0
+
+set_AvatarsConfig_position_and_rotation
+(0,0,-1.144585) (0,0,0)
+0
+
+set_camera_position_and_rotation
+(0,0,0) (10,0,0)
+0
+
+fade_black_screen_to_camera
+1000
+
+active_navigation active_nav_6/18_task_1/3_b1
+1.5 25
+
+fade_camera_to_black_screen
+1000
+
+set_AvatarsConfig_position_and_rotation
+(0,0,0) (0,0,0)
+0
+
+show_character
+false
+0
+
+show_table_under_character
+false
+0
+
+change_skin
+none
+0
+
+set_camera_position_and_rotation
+(0,-2000,0) (0,0,0)
+0
+
+change_camera_settings
+Color Everything #000000
+0
+
+fade_black_screen_to_camera
+1
+
+text_body_part
+Other white Good_job@Experiment_ended@@@@@
+5000
+
+fade_camera_to_black_screen
+1
+
+change_camera_settings
+Skybox Everything #000000
+0
+
+change_skin
+male
+0
+
+show_character
+true
+0
+
+pause
+
+EOF

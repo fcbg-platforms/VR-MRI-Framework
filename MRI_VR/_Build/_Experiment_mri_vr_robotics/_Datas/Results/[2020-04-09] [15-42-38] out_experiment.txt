@@ -1,0 +1,76 @@
+2020-09-04 13:42:54.239 - [comment] - Start of the experiment
+
+2020-09-04 13:42:54.267 - [load_scene_additive] - CB_MRI
+
+2020-09-04 13:42:55.145 - [get_mri_references] - 0
+
+2020-09-04 13:42:55.183 - [init] - Male - #959595 - 1 - 1
+
+2020-09-04 13:43:00.200 - [set_MRI_length_rb] - 1.234
+
+2020-09-04 13:43:00.232 - [pause]
+
+2020-09-04 13:43:02.751 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-04 13:43:02.768 - [move_inside]0.004 0.0045
+
+2020-09-04 13:43:09.794 - [pause]
+
+2020-09-04 13:43:11.501 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-04 13:43:11.534 - [fade_camera_to_black_screen] - 1000
+
+2020-09-04 13:43:12.560 - [pause_wait_for_MRI_pulse]
+
+2020-09-04 13:43:16.703 - [MRI Pulse Received]
+
+2020-09-04 13:43:16.720 - [fade_black_screen_to_camera] - 1000
+
+2020-09-04 13:43:16.721 - [MRI Pulse Received]
+
+2020-09-04 13:43:16.736 - [MRI Pulse Received]
+
+2020-09-04 13:43:16.753 - [MRI Pulse Received]
+
+2020-09-04 13:43:16.770 - [MRI Pulse Received]
+
+2020-09-04 13:43:17.748 - [continuousscale] [0] - Other - How was the example? - white
+2020-09-04 13:43:27.558 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 4
+
+2020-09-04 13:43:27.558 - [continuousscale] [1] - input : 4
+2020-09-04 13:43:27.575 - [continuousscale] [1] - value : 500
+
+2020-09-04 13:43:27.590 - [fade_camera_to_black_screen] - 1000
+
+2020-09-04 13:43:28.619 - [pause]
+
+2020-09-04 13:43:30.971 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-04 13:43:30.988 - [load_scene_single] - Landscape
+
+2020-09-04 13:43:31.581 - [fade_black_screen_to_camera] - 1000
+
+2020-09-04 13:43:32.608 - [pause]
+
+2020-09-04 13:43:36.188 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-04 13:43:36.204 - [fade_camera_to_black_screen] - 1000
+
+2020-09-04 13:43:37.232 - [load_scene_single] - CB_MRI
+
+2020-09-04 13:43:38.106 - [get_mri_references] - 0
+
+2020-09-04 13:43:38.140 - [avatar_inside_mri] - 100
+
+2020-09-04 13:43:38.273 - [fade_black_screen_to_camera] - 1000
+
+2020-09-04 13:43:39.300 - [pause]
+
+2020-09-04 13:43:46.559 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-04 13:43:46.575 - [move_outside]0.004 0.0045
+
+2020-09-04 13:43:53.601 - [EOF]
+
+2020-09-04 13:43:55.488 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+

@@ -1,0 +1,50 @@
+comment
+Start of the experiment
+0
+
+load_scene_additive
+CB_MRI
+500
+
+get_mri_references
+
+init
+Male #959595 1 1
+5000
+
+set_MRI_length_rb
+1.234
+0
+
+pause move_inside
+
+move_inside
+0.004 0.0045
+7000
+
+pause end_move_inside
+
+checkpoint
+ckpt_move_inside
+
+fade_camera_to_black_screen
+1000
+
+pause_wait_for_MRI_pulse
+
+fade_black_screen_to_camera
+1000
+
+pause
+
+enable_mesh_deformation
+true
+0
+
+pause move_outside
+
+move_outside
+0.004 0.0045
+7000
+
+EOF

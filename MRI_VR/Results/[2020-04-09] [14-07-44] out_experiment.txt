@@ -1,0 +1,82 @@
+2020-09-04 12:07:44.207 - [comment] - Start of the experiment
+
+2020-09-04 12:07:45.386 - [load_scene_additive] - CB_MRI
+
+2020-09-04 12:07:45.904 - [get_mri_references] - 0
+
+2020-09-04 12:07:45.948 - [init] - Male - #959595 - 1 - 1
+
+2020-09-04 12:07:48.558 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-04 12:07:49.048 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-04 12:07:49.678 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-04 12:07:50.091 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-04 12:07:50.620 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-04 12:07:50.975 - [set_MRI_length_rb] - 1.234
+
+2020-09-04 12:07:51.009 - [pause]
+
+2020-09-04 12:07:51.101 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-04 12:07:51.118 - [move_inside]0.004 0.0045
+
+2020-09-04 12:07:58.152 - [pause]
+
+2020-09-04 12:08:02.929 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-04 12:08:02.968 - [fade_camera_to_black_screen] - 1000
+
+2020-09-04 12:08:03.997 - [pause_wait_for_MRI_pulse]
+
+2020-09-04 12:08:06.699 - [MRI Pulse Received]
+
+2020-09-04 12:08:06.718 - [fade_black_screen_to_camera] - 1000
+
+2020-09-04 12:08:06.722 - [MRI Pulse Received]
+
+2020-09-04 12:08:06.743 - [MRI Pulse Received]
+
+2020-09-04 12:08:06.762 - [MRI Pulse Received]
+
+2020-09-04 12:08:07.749 - [continuousscale] [0] - Other - How was the example? - white
+2020-09-04 12:08:08.566 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 4
+
+2020-09-04 12:08:08.567 - [continuousscale] [1] - input : 4
+2020-09-04 12:08:08.583 - [continuousscale] [1] - value : 500
+
+2020-09-04 12:08:08.600 - [fade_camera_to_black_screen] - 1000
+
+2020-09-04 12:08:09.622 - [pause]
+
+2020-09-04 12:08:10.832 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-04 12:08:10.850 - [load_scene_single] - Landscape
+
+2020-09-04 12:08:11.550 - [fade_black_screen_to_camera] - 1000
+
+2020-09-04 12:08:12.580 - [pause]
+
+2020-09-04 12:08:13.620 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-04 12:08:13.635 - [fade_camera_to_black_screen] - 1000
+
+2020-09-04 12:08:14.661 - [load_scene_single] - CB_MRI
+
+2020-09-04 12:08:15.461 - [get_mri_references] - 0
+
+2020-09-04 12:08:15.494 - [move_mri_notime] - 100
+
+2020-09-04 12:08:15.622 - [fade_black_screen_to_camera] - 1000
+
+2020-09-04 12:08:16.641 - [pause]
+
+2020-09-04 12:08:19.083 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-04 12:08:19.100 - [move_outside]0.004 0.0045
+
+2020-09-04 12:08:26.120 - [EOF]
+

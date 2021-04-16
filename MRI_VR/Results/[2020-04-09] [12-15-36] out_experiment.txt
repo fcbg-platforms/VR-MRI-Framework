@@ -1,0 +1,58 @@
+2020-09-04 10:15:36.294 - [comment] - Start of the experiment
+
+2020-09-04 10:15:37.516 - [init] - Male - #959595 - 1 - 1
+
+2020-09-04 10:15:41.257 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-04 10:15:41.779 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-04 10:15:42.535 - [set_MRI_length_rb] - 1.234
+
+2020-09-04 10:15:42.578 - [pause]
+
+2020-09-04 10:15:44.747 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-04 10:15:44.763 - [move_inside]0.004 0.0045
+
+2020-09-04 10:15:51.796 - [pause]
+
+2020-09-04 10:15:52.575 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-04 10:15:52.612 - [fade_camera_to_black_screen] - 1000
+
+2020-09-04 10:15:53.642 - [pause_wait_for_MRI_pulse]
+
+2020-09-04 10:15:55.824 - [MRI Pulse Received]
+
+2020-09-04 10:15:55.844 - [fade_black_screen_to_camera] - 1000
+
+2020-09-04 10:15:55.847 - [MRI Pulse Received]
+
+2020-09-04 10:15:55.866 - [MRI Pulse Received]
+
+2020-09-04 10:15:55.889 - [MRI Pulse Received]
+
+2020-09-04 10:15:55.906 - [MRI Pulse Received]
+
+2020-09-04 10:15:55.922 - [MRI Pulse Received]
+
+2020-09-04 10:15:55.947 - [MRI Pulse Received]
+
+2020-09-04 10:15:55.965 - [MRI Pulse Received]
+
+2020-09-04 10:15:56.885 - [continuousscale] [0] - Other - How was the example? - white
+2020-09-04 10:15:58.517 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-04 10:16:00.359 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 4
+
+2020-09-04 10:16:00.360 - [continuousscale] [1] - input : 4
+2020-09-04 10:16:00.378 - [continuousscale] [1] - value : 500
+
+2020-09-04 10:16:00.398 - [fade_camera_to_black_screen] - 1000
+
+2020-09-04 10:16:01.433 - [move_outside]0.004 0.0045
+
+2020-09-04 10:16:06.025 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-04 10:16:08.471 - [EOF]
+

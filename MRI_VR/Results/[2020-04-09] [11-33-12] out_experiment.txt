@@ -1,0 +1,72 @@
+2020-09-04 09:33:12.755 - [comment] - Start of the experiment
+
+2020-09-04 09:33:14.037 - [init] - Male - #959595 - 1 - 1
+
+2020-09-04 09:33:15.791 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-04 09:33:16.604 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-04 09:33:17.127 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-04 09:33:17.534 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-04 09:33:17.915 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-04 09:33:18.306 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-04 09:33:18.725 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-04 09:33:19.049 - [set_MRI_length_rb] - 1.234
+
+2020-09-04 09:33:19.073 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-04 09:33:19.091 - [pause]
+
+2020-09-04 09:33:19.287 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-04 09:33:19.309 - [move_inside]0.004 0.0045
+
+2020-09-04 09:33:26.347 - [pause]
+
+2020-09-04 09:33:28.397 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-04 09:33:28.433 - [fade_camera_to_black_screen] - 1000
+
+2020-09-04 09:33:29.457 - [pause_wait_for_MRI_pulse]
+
+2020-09-04 09:33:32.130 - [MRI Pulse Received]
+
+2020-09-04 09:33:32.148 - [MRI Pulse Received]
+
+2020-09-04 09:33:32.163 - [pause]
+
+2020-09-04 09:33:32.163 - [MRI Pulse Received]
+
+2020-09-04 09:33:32.180 - [MRI Pulse Received]
+
+2020-09-04 09:33:32.196 - [MRI Pulse Received]
+
+2020-09-04 09:33:32.214 - [MRI Pulse Received]
+
+2020-09-04 09:33:33.729 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-04 09:33:33.746 - [fade_black_screen_to_camera] - 1000
+
+2020-09-04 09:33:34.774 - [continuousscale] [0] - Other - I felt as if the touch I felt@was located where I saw@the stroking - white
+2020-09-04 09:33:40.360 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 4
+
+2020-09-04 09:33:40.362 - [continuousscale] [1] - input : 4
+2020-09-04 09:33:40.385 - [continuousscale] [1] - value : 500
+
+2020-09-04 09:33:40.402 - [fade_camera_to_black_screen] - 1000
+
+2020-09-04 09:33:41.435 - [pause]
+
+2020-09-04 09:33:43.074 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-04 09:33:43.094 - [fade_black_screen_to_camera] - 1000
+
+2020-09-04 09:33:44.118 - [move_outside]0.004 0.0045
+
+2020-09-04 09:33:51.138 - [EOF]
+

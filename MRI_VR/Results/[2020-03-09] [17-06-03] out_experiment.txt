@@ -1,0 +1,58 @@
+2020-09-03 15:06:03.157 - [comment] - Start of the experiment
+
+2020-09-03 15:06:03.810 - [init] - Male - #959595 - 1 - 1
+
+2020-09-03 15:06:06.910 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-03 15:06:07.414 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-03 15:06:07.784 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-03 15:06:08.113 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-03 15:06:08.478 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-03 15:06:08.820 - [set_MRI_length_rb] - 1.234
+
+2020-09-03 15:06:08.855 - [pause]
+
+2020-09-03 15:06:08.909 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-03 15:06:08.926 - [move_inside]0.004 0.0045
+
+2020-09-03 15:06:15.650 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-03 15:06:15.971 - [pause]
+
+2020-09-03 15:06:16.263 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-03 15:06:16.300 - [fade_camera_to_black_screen] - 1000
+
+2020-09-03 15:06:17.321 - [pause]
+
+2020-09-03 15:06:20.372 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-03 15:06:20.390 - [unload_scene] - 1
+
+2020-09-03 15:06:20.427 - [load_scene] - 0
+
+2020-09-03 15:06:20.478 - [anchor_AvatarsConfig_to_Scene_1_anchor] - 0
+
+2020-09-03 15:06:20.509 - [set_AvatarsConfig_position_and_rotation] - (0,0,0) (0,0,0)
+
+2020-09-03 15:06:20.552 - [set_camera_position_and_rotation] - (0,1,-4.5) (10,0,0)
+
+2020-09-03 15:06:20.590 - [fade_black_screen_to_camera] - 1000
+
+2020-09-03 15:06:21.619 - [rotate_AvatarsConfig_from_A_to_B] - 90 0.1
+
+2020-09-03 15:06:28.479 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-03 15:06:29.152 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-03 15:06:29.351 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-03 15:06:29.542 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
+2020-09-03 15:06:29.706 - [INPUT_RECEIVED_BUTTON_PRESSED] - input : 9
+
